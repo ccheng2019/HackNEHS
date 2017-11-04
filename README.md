@@ -1,3 +1,3 @@
 #HackNEHSTestRepo
 
-this repo is going to bea test repo for the HackNEHS
+this repo is going to be a test repo for the HackNEHSgit status
